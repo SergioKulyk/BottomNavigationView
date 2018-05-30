@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BottomNavigationView</string>
+
+    <!-- Titles for TabMenu -->
+    <string name="calendar_bottom_nav_title">calendar</string>
+    <string name="home_bottom_nav_title">home</string>
+    <string name="chat_bottom_nav_title">chat</string>
+    <string name="match_bottom_nav_title">match</string>
+    <string name="profile_bottom_nav_title">profile</string>
+
 </resources>
